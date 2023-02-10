@@ -171,5 +171,3 @@ void forgot(){
 void directing(){
     main();
 }
-
-//BUG   try pressing 3 2 4 
